@@ -1,0 +1,88 @@
+.main {
+	font-size: 150px;
+	padding-top: 120px;
+	padding-right: 15px;
+	padding-left: 15px;
+	font-family: 'Rochester', cursive;
+	color: grey;
+}
+
+.second {
+	font-size: 70px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding-right: 15px;
+	padding-left: 15px;
+	color: gray;
+}
+
+.third {
+	font-size: 60px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding-right: 15px;
+	padding-left: 15px;
+	color: gray;
+}
+
+.fourth {
+	font-size: 50px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-bottom: 120px;
+	color: gray;
+}
+
+.navbar {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+body {
+	background-color: #80FFE8;
+
+}
+
+#beans a:hover {
+	color: #E9EB87;
+}
+
+/* Sisters Page */
+
+.navbar {margin-bottom: 0;}
+
+.active {
+	font-size: 100px;
+	background-color: white;
+	padding-right: 15px;
+	padding-left: 15px;
+	font-family: 'Rochester', cursive;
+	color: black;
+}
+
+.tofu {
+  list-style-type: none;
+  text-align: center;
+
+}
+
+.sushi {
+	font-family: 'Cormorant Unicase', serif;
+	font-size: 20px;
+}
+
+.tuna {
+	font-family: 'Yrsa', serif;
+	font-size: 50px;
+	text-align: center;
+}
+
+.mayo {
+	font-family: 'Yrsa', serif;
+	font-size: 20px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+
+
+
