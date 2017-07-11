@@ -4,7 +4,6 @@
 	padding-right: 15px;
 	padding-left: 15px;
 	font-family: 'Rochester', cursive;
-	color: grey;
 }
 
 .second {
@@ -12,7 +11,7 @@
 	font-family: 'Open Sans Condensed', sans-serif;
 	padding-right: 15px;
 	padding-left: 15px;
-	color: gray;
+	
 }
 
 .third {
@@ -20,7 +19,7 @@
 	font-family: 'Open Sans Condensed', sans-serif;
 	padding-right: 15px;
 	padding-left: 15px;
-	color: gray;
+	
 }
 
 .fourth {
@@ -29,7 +28,7 @@
 	padding-right: 15px;
 	padding-left: 15px;
 	padding-bottom: 120px;
-	color: gray;
+	
 }
 
 .navbar {
